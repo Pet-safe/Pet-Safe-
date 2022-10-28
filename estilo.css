@@ -200,17 +200,17 @@ h4{
   
     display: block;
     margin-left: 70px;
-    width: 100%; 
+    width: 75%; 
     height: 40%;  
 }
 .pepe{
     width: min-content;
     height: min-content;
     text-align: center;
-    
+    height: auto;
 }
 .historial{
-height: 700px;
+height: 550px;
 }
 #section-menu{
     font-size: 30px;
