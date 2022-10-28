@@ -1,8 +1,7 @@
 header{
     display: flex;
-  
 margin: 0px;
-width: auto;
+width: 100%;
 height: 2cm;
 }
 
@@ -222,8 +221,8 @@ h4{
 .contenedor-section{
     display: block;
     justify-content: space-around;
-    margin-left: 40px;
-    height: 145 0px;
+    margin-left: 30px;
+    height: 1450px;
     position: relative;
     top: 0;
     left: 0;
@@ -238,6 +237,20 @@ body{
     padding: 0px;
     user-select: none;
 }
-
+.logo{
+    margin-left: 20px;
+    margin-top: 8px;
+ }
+ .wsp{
+     display: flex;
+     justify-content: baseline;
+     margin-top: 15px;
+     margin-left: 20px;
+ }
+ .usuario{
+    margin-top: 7px;
+    padding: 15px;
+margin-left: -10px;
+}
 
 }
